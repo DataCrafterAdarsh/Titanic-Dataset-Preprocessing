@@ -1,9 +1,10 @@
 # Titanic Dataset Preprocessing 
 This repository contains the preprocessing work done on the Titanic dataset.
-## 📊 Dataset
+
+##  Dataset
 Datasource : CSV file downloaded
 
-## ✅ Tasks Completed Today (Day 1)
+##  Tasks Completed Today (Day 1)
 - Loaded the Titanic dataset using pandas.
 - **Handled missing values**:
   - Filled missing values in the `Age` column using the median.
@@ -18,12 +19,12 @@ Datasource : CSV file downloaded
 - **Outlier Removal**:
   - Removed outliers from `Age` and `Fare` columns using the IQR method.
 
-## 📁 Files
+##  Files
 - `titanic_preprocessing.py`: Python code with all preprocessing steps.
 - `titanic.csv`: Dataset used.
 - `README.md`: Documentation (this file).
 
-## 🧠 Tools Used
+##  Tools Used
 - Python
 - Pandas
 - Seaborn 
